@@ -1,0 +1,21 @@
+The inspiration from the code has been taken from : 
+	
+	https://github.com/techwithtim/PygameForBeginners
+
+
+All the code has been adapted to my own version of the game, as discussed with Agnes on tutorial, as I had submitted already a game I have retyped 
+from scratch all the code used trying to understand the process behind.
+
+
+2 PLAYER BASED GAME:
+
+- EACH PLAYER STAND ON ONE SIDE OF THE SCREEN
+- BOTTOM PLAYER MOVES USING W-A-S-D KEYS AND SHOOTS BULLETS WITH LEFT-ALT KEY.
+- TOP PLAYER MOVES USING ARROW KEYS AND SHOOTS BULLETS USING RIGHT-ALT KEY.
+- AN ASTEROID IN BETWEEN BOTH SIDES, MOVES FROM LEFT TO RIGHT AND WHEN BULLETS COLLIDES WITH IT, THE BULLETS DISAPPEAR.
+- WHEN PLAYER GETS HIT WITH A BULLET, THE HEALTH BAR GETS DECREASED.
+- FIRST PLAYER TO DROP ENEMY'S HEALTH BAR TO 0 WINS, AND GAME GETS RESTARTED.
+- SOUNDS ARE PLAYED WHEN:
+	A. PLAYER FIRE BULLETS
+	B. PLAYER GETS HIT BY A BULLET OR 2 BULLETS COLLIDES BETWEEN THEM
+	C. WHEN A PLAYER WINS THE GAME
